@@ -5,6 +5,8 @@
 
 [MOCKUPS](https://www.figma.com/file/zucRiZQF1yfgl1GnJ6XiiT/Untitled?type=design&node-id=0%3A1&mode=design&t=HZ7TmIXRfLArGz1e-1)
 
+![Image Alt Text](public/mockups/Desktop.png)
+
 ## npm packages
 
 :arrow_right: **react-router-dom**
