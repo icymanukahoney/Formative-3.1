@@ -3,9 +3,11 @@
 
 **This web application relies on the [NewsAPI](https://newsapi.org) and [WeatherAPI](https://www.weatherapi.com) services. The website offers various exciting features, including weather updates from different cities worldwide, a collection of international news in multiple languages, and coverage of various topics such as General, Business, Entertainment, Health, Science, Sports, and Technology. It also includes an assortment of inspiring quotes and jokes by using for Quotes [Type Fit API](https://type.fit/api/quotes) and [Official Joke API](https://official-joke-api.appspot.com/).**
 
-[MOCKUPS](https://www.figma.com/file/zucRiZQF1yfgl1GnJ6XiiT/Untitled?type=design&node-id=0%3A1&mode=design&t=HZ7TmIXRfLArGz1e-1)
+# MOCKUPS
 
 ![Image Alt Text](public/mockups/Desktop.png)
+![Image Alt Text](public/mockups/Tablet.png)
+![Image Alt Text](public/mockups/Iphone.png)
 
 ## npm packages
 
